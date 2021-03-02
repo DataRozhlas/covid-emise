@@ -6,7 +6,7 @@ styles: []
 libraries: []
 options: [] #wide, noheader (, nopic)
 ---
-Předběžné výpočty produkce skleníkových plynů za rok 2020 publikovali vědci z Global Carbon Project v magazínu Nature Climate Change. Vůbec největší propad emisí zaznamenali loni během jarní vlny, a to až o 17 procent v porovnání s denními průměry stejného období roku 2019. 
+Předběžné výpočty produkce skleníkových plynů za rok 2020 publikovali vědci z [Global Carbon Project](https://www.globalcarbonproject.org) v magazínu Nature Climate Change. Vůbec největší propad emisí zaznamenali loni během jarní vlny, a to až o 17 procent v porovnání s denními průměry stejného období roku 2019. 
 
 Takové snižování emisí skleníkových plynů ale podle Tolasze nebylo promyšlené a cílené. Vlády se snažily omezit především lidské kontakty, nikoliv produkci emisí. „I proto to teď nevypadá, že by snižování pokračovalo. Klima to v dlouhodobých cyklech ani nepozná,“ dodává. 
 
@@ -75,15 +75,13 @@ Emise jsme přitom snižovali už od druhé poloviny osmdesátých let postupně
 
 Poslední dostupné údaje ze Zprávy o stavu životního prostředí v roce 2019 odhadují, že se meziročně téměř zdvojnásobilo množství smrkového dřeva napadeného kůrovci. Kalamitní těžba tvoří 95 procent vytěženého dřeva. 
 
-GRAF RŮSTU KONCENTRACÍ HERE
+Kůrovcovou kalamitu zohlednila také Evropská unie ve své dohodě o zpřísnění klimatických závazků k roku 2030. Na prosincovém jednání se členské státy zavázaly k celkovému snížení skleníkových plynů o nejméně 55 procent oproti roku 1990. 
+
 <wide>
 <div id="graf-3" style="max-width: 820px; margin-left: auto; margin-right: auto;"></div>
 <div style="text-align: right; padding-bottom: 10px">
-  <small>Zdroj: <a href="https://ec.europa.eu/eurostat/databrowser/view/HLTH_SILC_02__custom_552582/bookmark/table?lang=en&bookmarkId=d12a09e4-49f2-4663-9c12-9439164b94da">Eurostat</a></small>
 </div>
 </wide>
-
-Kůrovcovou kalamitu zohlednila také Evropská unie ve své dohodě o zpřísnění klimatických závazků k roku 2030. Na prosincovém jednání se členské státy zavázaly k celkovému snížení skleníkových plynů o nejméně 55 procent oproti roku 1990. 
 
 ## Background fakta
 
@@ -94,7 +92,6 @@ Emise z dopravy u nás zvyšuje závislost na ropných produktech, s 15procentn�
 <wide>
 <div id="graf-4" style="max-width: 820px; margin-left: auto; margin-right: auto;"></div>
 <div style="text-align: right; padding-bottom: 10px">
-  <small>Zdroj: <a href="https://ec.europa.eu/eurostat/databrowser/view/HLTH_SILC_02__custom_552582/bookmark/table?lang=en&bookmarkId=d12a09e4-49f2-4663-9c12-9439164b94da">Eurostat</a></small>
 </div>
 </wide>
 
