@@ -6,19 +6,19 @@ if (navigator.appName === "Microsoft Internet Explorer" || !!(navigator.userAgen
 }
 
 if (window.innerWidth < 600) {
-  document.getElementById("graf-1").innerHTML = '<img class="img" src="https://data.irozhlas.cz/nadeje-doziti-podle-vzdelani/graf_1_mob.svg">'
+  document.getElementById("graf-1").innerHTML = '<img class="img" src="https://data.irozhlas.cz/covid-emise-grafy-svg/graf_emise_celkem_mob.svg">'
 } else {
-  document.getElementById("graf-1").innerHTML = '<img class="img" src="https://data.irozhlas.cz/nadeje-doziti-podle-vzdelani/graf_1_des.svg">'
+  document.getElementById("graf-1").innerHTML = '<img class="img" src="https://data.irozhlas.cz/covid-emise-grafy-svg/graf_emise_celkem_des.svg">'
 }
 
 if (window.innerWidth < 600) {
-  document.getElementById("graf-2").innerHTML = '<img class="img" src="https://data.irozhlas.cz/nadeje-doziti-podle-vzdelani/graf_2_mob.svg">'
+  document.getElementById("graf-2").innerHTML = '<img class="img" src="https://data.irozhlas.cz/covid-emise-grafy-svg/graf_emise_sektory_mob.svg">'
 } else {
-  document.getElementById("graf-2").innerHTML = '<img class="img" src="https://data.irozhlas.cz/nadeje-doziti-podle-vzdelani/graf_2_des.svg">'
+  document.getElementById("graf-2").innerHTML = '<img class="img" src="https://data.irozhlas.cz/covid-emise-grafy-svg/graf_emise_sektory_des.svg">'
 }
 
 if (window.innerWidth < 600) {
-  document.getElementById("graf-3").innerHTML = '<img class="img" src="https://data.irozhlas.cz/nadeje-doziti-podle-vzdelani/graf_3_mob.svg">'
+  document.getElementById("graf-3").innerHTML = '<img class="img" src="https://data.irozhlas.cz/covid-emise-grafy-svg/graf_koncentrace_mob.svg">'
 } else {
-  document.getElementById("graf-3").innerHTML = '<img class="img" src="https://data.irozhlas.cz/nadeje-doziti-podle-vzdelani/graf_3_des.svg">'
+  document.getElementById("graf-3").innerHTML = '<img class="img" src="https://data.irozhlas.cz/covid-emise-grafy-svg/graf_koncentrace_des.svg">'
 }
