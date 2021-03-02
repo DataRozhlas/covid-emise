@@ -10,6 +10,8 @@ Předběžné výpočty produkce skleníkových plynů za rok 2020 publikovali v
 
 Takové snižování emisí skleníkových plynů ale podle Tolasze nebylo promyšlené a cílené. Vlády se snažily omezit především lidské kontakty, nikoliv produkci emisí. „I proto to teď nevypadá, že by snižování pokračovalo. Klima to v dlouhodobých cyklech ani nepozná,“ dodává. 
 
+<left>BOX: FUNGUJE? </left>
+
 Právě první měsíce pandemie byly také jediné, které pozastavily životy lidí na celé planetě ve stejný okamžik. „Teď už globálním lockdownem neprocházíme. Většina světa funguje v podstatě normálně, s malými omezeními,“ říká Ondřej Přibyla, koordinátor webu Fakta o klimatu. 
 
 Emise sice loni snížili všichni největší znečišťovatelé, jenže zatímco odhady hovoří o poklesu 12 procent ve Spojených státech, 11 procent v Evropské unii a devět procent v Indii, v Číně klesly jen o 1,7 procent. Právě průmyslová a lidnatá Čína přitom žebříček znečisťovatelů s náskokem vede, se zhruba třicetiprocentním podílem na globálních emisích.
