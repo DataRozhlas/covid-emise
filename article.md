@@ -1,4 +1,4 @@
-title: "Data: Vyšší vzdělání znamená delší život. Z celé Evropy je tato vazba nejsilnější ve Visegrádu. Proč?"
+title: "Data: EMISE"
 perex: "Lepší vzdělání obvykle znamená delší život. U mužů se tento jev projevuje podstatně víc než u žen. Jde o téměř univerzální zákonitost, ukazují ji data z většiny vyspělých zemí."
 coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
 coverimg_note: "Foto <a href='https://ctk.cz'>ČTK</a>"
