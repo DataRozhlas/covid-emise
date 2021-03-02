@@ -10,3 +10,15 @@ if (window.innerWidth < 600) {
 } else {
   document.getElementById("graf-1").innerHTML = '<img class="img" src="https://data.irozhlas.cz/nadeje-doziti-podle-vzdelani/graf_1_des.svg">'
 }
+
+if (window.innerWidth < 600) {
+  document.getElementById("graf-2").innerHTML = '<img class="img" src="https://data.irozhlas.cz/nadeje-doziti-podle-vzdelani/graf_1_mob.svg">'
+} else {
+  document.getElementById("graf-2").innerHTML = '<img class="img" src="https://data.irozhlas.cz/nadeje-doziti-podle-vzdelani/graf_1_des.svg">'
+}
+
+if (window.innerWidth < 600) {
+  document.getElementById("graf-3").innerHTML = '<img class="img" src="https://data.irozhlas.cz/nadeje-doziti-podle-vzdelani/graf_1_mob.svg">'
+} else {
+  document.getElementById("graf-3").innerHTML = '<img class="img" src="https://data.irozhlas.cz/nadeje-doziti-podle-vzdelani/graf_1_des.svg">'
+}
