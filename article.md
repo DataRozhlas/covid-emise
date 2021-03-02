@@ -54,7 +54,7 @@ Skeptický je také klimatolog Tolasz. Očekává, že přesnější inventura e
 
 „Součástí výpočtu emisí jsou takzvané propady, tedy kolik lesy odčerpají skleníkových plynů nebo oxidů uhličitého z atmosféry. Pokud jsou lesy v problémech a odčerpávají méně, výsledná inventura se zvedá. A to je teď náš problém,“ popisuje Tolasz. 
 
-Poslední dostupné údaje ze Zprávy o stavu životního prostředí v roce 2019 odhadují, že se meziročně téměř zdvojnásobilo množství evidovaného smrkového dřeva napadeného kůrovci. Kalamitní těžba tvoří 95 procent vytěženého dřeva. --- dáme link, https://www.irozhlas.cz/zpravy-domov/detske-tabory-skaut-junak-kurovec-sucho-taboriste-tezba-lesa_2007011157_nkr 
+Poslední dostupné údaje ze Zprávy o stavu životního prostředí v roce 2019 odhadují, že se meziročně téměř zdvojnásobilo množství evidovaného smrkového dřeva napadeného kůrovci. Kalamitní těžba tvoří 95 procent vytěženého dřeva. dáme link, https://www.irozhlas.cz/zpravy-domov/detske-tabory-skaut-junak-kurovec-sucho-taboriste-tezba-lesa_2007011157_nkr 
 
 GRAF RŮSTU KONCENTRACÍ HERE
 <wide>
