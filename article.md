@@ -8,6 +8,13 @@ options: [] #wide, noheader (, nopic)
 ---
 V zemích visegrádské čtyřky je ale rozdíl mimořádně vysoký: u slovenských mužů je rozdíl v očekávané délce života mezi vysokoškoláky a těmi se základním vzděláním 16 let, u Poláků 12 a půl roku, a Maďarů a Čechů 11 let.
 
+<wide>
+<div id="graf-5" style="max-width: 820px; margin-left: auto; margin-right: auto;"></div>
+<div style="text-align: right; padding-bottom: 10px">
+  <small>Zdroj: <a href="https://ec.europa.eu/eurostat/databrowser/view/HLTH_SILC_02__custom_552582/bookmark/table?lang=en&bookmarkId=d12a09e4-49f2-4663-9c12-9439164b94da">Eurostat</a></small>
+</div>
+</wide>
+
 <small>Graf naděje dožití mužů podle vzdělání ve vybraných evropských zemích 2017, data ECHI: https://ec.europa.eu/health/indicators_data/indicators_en</small>
 
 U žen vzdělání nehraje takovou roli a země střední Evropy tolik nevyčnívají. Výjimkou je opět Slovensko.

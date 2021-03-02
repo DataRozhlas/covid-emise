@@ -4,3 +4,9 @@ if (navigator.appName === "Microsoft Internet Explorer" || !!(navigator.userAgen
   warn.style.cssText = "text-align:center;position:absolute;width:100%;height:auto;opacity:1;z-index:100;background-color:#d52834;top:37px;padding-top:4px;padding-bottom:3px;color:white;";
   document.body.appendChild(warn);
 }
+
+if (window.innerWidth < 600) {
+  document.getElementById("graf-1").innerHTML = '<img class="img" src="https://data.irozhlas.cz/nadeje-doziti-podle-vzdelani/graf_1_mob.svg">'
+} else {
+  document.getElementById("graf-1").innerHTML = '<img class="img" src="https://data.irozhlas.cz/nadeje-doziti-podle-vzdelani/graf_1_des.svg">'
+}
