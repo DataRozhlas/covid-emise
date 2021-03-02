@@ -1,7 +1,7 @@
 title: "Covid snížil emise skleníkových plynů rekordní měrou. Klimatickou změnu ale nezpomalil"
 perex: "O rekordních sedm procent poklesly roční globální emise skleníkových plynů v důsledku opatření, která sebou přinesla pandemie Do dlouhodobých změn klimatu se to ale nepromítne. „Stále je to zhruba 50 gigatun skleníkových plynů ročně, které do atmosféry přidáváme nad rámec toho, co je schopna pojmout,“ říká klimatolog Radim Tolasz. Po krizích, které utlumují průmysl, navíc emise obvykle strmě rostou. V Česku podle předběžných odhadů loni neklesly vůbec."
-coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
-coverimg_note: "Foto <a href='https://ctk.cz'>ČTK</a>"
+coverimg: "https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/snimek_obrazovky_202_210302-150231_nkr.png?itok=O9dT1zyP"
+coverimg_note: "Foto <a href='iROZHLAS.cz'>iROZHLAS.cz</a>"
 styles: []
 libraries: []
 options: [] #wide, noheader (, nopic)
@@ -22,9 +22,9 @@ Emise sice loni snížili všichni největší znečišťovatelé, jenže zatím
 </div>
 </wide>
 
-<small> Data: O emisích skleníkových plynů nejpřesněji vypovídají hlášené spotřeby energií, ty jsou ale dostupné až s několikaměsíčním zpožděním. Studie publikovaná odborným časopisem Nature Climate Change proto odhaduje poklesy emisí během roku 2020 za pomocí dat o mobilitě, společně s daty o výrobě elektřiny a dalšími podrobnými statistikami: https://ec.europa.eu/health/indicators_data/indicators_en</small>
+<small>O emisích skleníkových plynů nejpřesněji vypovídají hlášené spotřeby energií, ty jsou ale dostupné až s několikaměsíčním zpožděním. Studie publikovaná odborným časopisem Nature Climate Change proto odhaduje poklesy emisí během roku 2020 za pomocí dat o mobilitě, společně s daty o výrobě elektřiny a dalšími podrobnými [statistikami](https://ec.europa.eu/health/indicators_data/indicators_en)</small>
 
-Na první pohled pozitivní dopad pandemie má významný háček. Zatímco produkce emisí meziročně rekordně poklesla, jejich koncentrace v atmosféře nadále stoupaly. Podle zprávy OSN dokonce na nejvyšší úroveň za poslední tři miliony let. 
+Na první pohled pozitivní dopad pandemie má významný háček. Zatímco produkce emisí meziročně rekordně poklesla, jejich koncentrace v atmosféře nadále stoupaly. Podle [zprávy](https://www.unep.org/news-and-stories/press-release/united-science-report-climate-change-has-not-stopped-covid19) OSN dokonce na nejvyšší úroveň za poslední tři miliony let. 
 
 „Produkci emisí si můžeme představit jako přítok vody do vany a koncentrace emisí jako její hladinu. I když malinko uberu na přítoku, hladina se pořád zvyšuje,“ vysvětluje Přibyla. 
 
@@ -32,7 +32,7 @@ Na první pohled pozitivní dopad pandemie má významný háček. Zatímco prod
  
 Nejcitelnější pokles produkce emisí nastal v pozemní dopravě, která se po energetice a průmyslu podílí na celkovém znečištění třetí největší měrou, a to zhruba pětinovou. V březnu a dubnu klesly emise z pozemní dopravy zhruba na polovinu svých denních průměrů roku 2019. 
 
-Představu o tom, jak přijatá opatření omezila dopravu v České republice, mohou dokreslit koncentrace jiných plynů, například oxidů dusíku. Ty mají na rozdíl od CO2 přímý vliv na kvalitu ovzduší, navíc se jejich roční koncentrace měří na 104 stanicích po celé republice. Podle Českého hydrometeorologického ústavu během prvního měsíce jarního nouzového stavu doprava spadla o zhruba třetinu. Podzimní koronavirová opatření stejný efekt nepřinesla, přesto nakonec loni nebyla vyhlášena ani jedna smogová situace.
+Představu o tom, jak přijatá opatření omezila dopravu v České republice, mohou dokreslit koncentrace jiných plynů, například oxidů dusíku. Ty mají na rozdíl od CO2 přímý vliv na kvalitu ovzduší, navíc se jejich roční koncentrace měří na 104 stanicích po celé republice. Podle [Českého hydrometeorologického ústavu](https://chmibrno.org/blog/infografiky/) během prvního měsíce jarního nouzového stavu doprava spadla o zhruba třetinu. Podzimní koronavirová opatření stejný efekt nepřinesla, přesto nakonec loni nebyla vyhlášena ani jedna smogová situace.
 
 „Nouzový stav je až čtvrtá příčina toho, že jsme loni naměřili nejlepší ovzduší, které kdy bylo. Teplá zima, mírné léto, převážně dobré rozptylové podmínky a dostatek srážek výrazně zlepšují kvalitu ovzduší a pro rok 2020 byly příznačné,“ vysvětluje Jáchym Brzezina, vedoucí oddělení kvality ovzduší z Českého hydrometeorologického ústavu v Brně.  
 
@@ -44,7 +44,7 @@ Představu o tom, jak přijatá opatření omezila dopravu v České republice, 
 
 <small>Podíl kategorií na produkci CO2: 44 procent globálních emisí CO2 pochází z výroby elektřiny a tepla. Průmysl produkuje 22 procent (včetně výroby oceli a cementu), pozemní doprava 20 procent, veřejný sektor 4 procent (sem patří například provoz kancelářských budov a obchodů), domácnosti 5 procent a letectví: 2 procent</small>
 
-Naopak průmysl, který byl podle globálních statistik druhým nejvíce propadlým znečišťovatelem mezi sektory, se v Česku vyjma několika týdenních odstávek automobilek a lokální nákazy v Dole Darkov téměř neomezil. „Průmyslové provozy běží pořád. Omezuje se pohyb lidí. Ale hospody, restaurace, nebo hotely jsou z hlediska emisí CO2 malým sektorem,“ pokračuje Přibyla. 
+Naopak průmysl, který byl podle globálních [statistik](https://www.nature.com/articles/s41558-020-0797-x) druhým nejvíce propadlým znečišťovatelem mezi sektory, se v Česku vyjma několika týdenních odstávek automobilek a lokální nákazy v Dole Darkov téměř neomezil. „Průmyslové provozy běží pořád. Omezuje se pohyb lidí. Ale hospody, restaurace, nebo hotely jsou z hlediska emisí CO2 malým sektorem,“ pokračuje Přibyla. 
 
 Dočasné snižování výroby má pro klima podle odborníků jen krátkodobý efekt, který se prakticky neprojeví. „Pokud to zároveň nerozšíříme o změny v oblasti výroby elektřiny nebo dopravy, nemá to významnou roli,“ odpovídá Přibyla na otázku, zda si z pandemie můžeme něco odnést. 
 
