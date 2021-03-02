@@ -44,9 +44,11 @@ Představu o tom, jak přijatá opatření omezila dopravu v České republice, 
 
 <small>Podíl kategorií na produkci CO2: 44 procent globálních emisí CO2 pochází z výroby elektřiny a tepla. Průmysl produkuje 22 procent (včetně výroby oceli a cementu), pozemní doprava 20 procent, veřejný sektor 4 procenta (sem patří například provoz kancelářských budov a obchodů), domácnosti 5 procent a letectví 2 procenta.</small>
 
-Naopak průmysl, který byl podle globálních [statistik](https://www.nature.com/articles/s41558-020-0797-x) druhým nejvíce přibrzděným znečišťovatelem mezi sektory, se v Česku vyjma několika týdenních odstávek automobilek a lokální nákazy v Dole Darkov téměř neomezil. „Průmyslové provozy běží pořád. Omezuje se pohyb lidí. Ale hospody, restaurace nebo hotely jsou z hlediska emisí CO2 malým sektorem,“ pokračuje Přibyla. 
+Naopak průmysl, který byl podle globálních [statistik](https://www.nature.com/articles/s41558-020-0797-x) druhým nejvíce přibrzděným znečišťovatelem mezi sektory, se v Česku vyjma několika týdenních odstávek automobilek a lokální nákazy v Dole Darkov téměř neomezil. „Průmyslové provozy běží pořád. Omezuje se pohyb lidí a služby. Ale zavřené hospody, restaurace nebo hotely jsou z hlediska emisí CO2 malým sektorem,“ pokračuje Přibyla. 
 
-Dočasné snižování výroby má pro klima podle odborníků jen krátkodobý efekt, který se prakticky neprojeví. „Pokud to zároveň nerozšíříme o změny v energetice a dopravě, nemá to významnou roli,“ odpovídá Přibyla na otázku, zda si z pandemie můžeme něco odnést. 
+Dočasné snižování výroby oproti strukturálním změnám má ale pro klima podle odborníků jen krátkodobý efekt, který se prakticky neprojeví. „Pokud to zároveň nerozšíříme o změny v energetice a dopravě, nemusí mít loňské snížení emisí významnou roli,“ odpovídá Přibyla na otázku, zda si z pandemie můžeme něco odnést. 
+
+Dodává ale, že právě investice do oživení ekonomiky jsou příležitostí k tomu hledat způsoby k tomu, aby jako sektor vypouštěla méně skleníkových plynů.
 
 ## Brzdí nás kůrovec
 Skeptický je také klimatolog Tolasz. Očekává, že přesnější inventura emisí v Česku za loňský rok odhalí, že i přes globální pokles a veškerá epidemická opatření budou naše výsledky přinejlepším stejné jako v roce 2019, možná i o něco vyšší. 
