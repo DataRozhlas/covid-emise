@@ -8,6 +8,7 @@ options: [] #wide, noheader (, nopic)
 ---
 V zemích visegrádské čtyřky je ale rozdíl mimořádně vysoký: u slovenských mužů je rozdíl v očekávané délce života mezi vysokoškoláky a těmi se základním vzděláním 16 let, u Poláků 12 a půl roku, a Maďarů a Čechů 11 let.
 
+GRAF CELKOVÝCH EMISÍ HERE:
 <wide>
 <div id="graf-1" style="max-width: 820px; margin-left: auto; margin-right: auto;"></div>
 <div style="text-align: right; padding-bottom: 10px">
@@ -29,6 +30,14 @@ V datech [Eurostatu]() a [OECD]() nicméně řada zemí chybí, také česká da
 
 „,“ dodává Daňková.
 
+GRAF PODLE SEKTORŮ HERE:
+<wide>
+<div id="graf-1" style="max-width: 820px; margin-left: auto; margin-right: auto;"></div>
+<div style="text-align: right; padding-bottom: 10px">
+  <small>Zdroj: <a href="https://ec.europa.eu/eurostat/databrowser/view/HLTH_SILC_02__custom_552582/bookmark/table?lang=en&bookmarkId=d12a09e4-49f2-4663-9c12-9439164b94da">Eurostat</a></small>
+</div>
+</wide>
+
 <small>Graf naděje dožití mužů/žen podle vzdělání ČR 2007-2017, data ECHI: https://ec.europa.eu/health/indicators_data/indicators_en</small>
 
 ## Mezititulek
@@ -40,6 +49,14 @@ Obě pohlaví tentokrát poskytují podobný obraz – vysokoškoláci zůstáva
 
 <small>Graf vnímané zdraví muži/ženy podle příjmů ČR 2019, data Eurostat: https://ec.europa.eu/eurostat/databrowser/view/HLTH_SILC_02__custom_552582/bookmark/table?lang=en&bookmarkId=d12a09e4-49f2-4663-9c12-9439164b94da</small>
 
+GRAF RŮSTU KONCENTRACÍ HERE
+<wide>
+<div id="graf-1" style="max-width: 820px; margin-left: auto; margin-right: auto;"></div>
+<div style="text-align: right; padding-bottom: 10px">
+  <small>Zdroj: <a href="https://ec.europa.eu/eurostat/databrowser/view/HLTH_SILC_02__custom_552582/bookmark/table?lang=en&bookmarkId=d12a09e4-49f2-4663-9c12-9439164b94da">Eurostat</a></small>
+</div>
+</wide>
+
 Jak nicméně [naznačují zahraniční studie](), vzdělání globálně podmiňuje zdravotní stav a délku života o něco silněji než příjmy a majetek.
 
 <small>Graf vnímané zdraví podle vzdělání, evropské země 2019, data Eurostat: https://ec.europa.eu/eurostat/databrowser/view/HLTH_SILC_02__custom_546655/bookmark/table?lang=en&bookmarkId=256b129b-877c-404b-8bd0-52aa20a5dda9</small>
@@ -50,6 +67,10 @@ Jednoduchá odpověď na otázku, proč vysokoškolský titul všude po světě 
 
 <small>Graf rizikové faktory podle vzdělání 2014/2017 (BMI, baštění zeleniny, cvičení, kouření, pití, preventivní prohlídky, vakcinace chřipka, nenaplněné zdravotní potřeby), data ECHI: https://ec.europa.eu/health/indicators_data/indicators_en</small>
 
+FAKTA O KLIMATU BACKGROUND HERE:
+<wide>
+<a href="https://faktaoklimatu.cz/infografiky/emise-cr-detail" target="_blank" rel="noopener">Emise skleníkových plynů v ČR podle sektorů detailně</a>
+</wide>
 „,“ upozorňuje 
 
 „“
