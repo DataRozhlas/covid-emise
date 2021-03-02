@@ -1,5 +1,5 @@
 title: "Covid snížil emise skleníkových plynů rekordní měrou. Klimatickou změnu ale nezpomalil"
-perex: "O rekordních sedm procent poklesly roční globální emise skleníkových plynů v důsledku protipandemických opatření. Do dlouhodobých změn klimatu se to ale nepromítne. „Stále je to zhruba 50 gigatun skleníkových plynů ročně, které do atmosféry přidáváme nad rámec toho, co je schopna pojmout,“ říká klimatolog Radim Tolasz. Po krizích, které utlumují průmysl, navíc emise obvykle strmě rostou. V Česku podle odhadů loni neklesly vůbec."
+perex: "O rekordních sedm procent poklesly roční globální emise skleníkových plynů v důsledku protipandemických opatření. Do dlouhodobých změn klimatu se to ale nepromítne. „Stále je to zhruba 50 gigatun skleníkových plynů ročně, které do atmosféry přidáváme navíc,“ říká klimatolog Radim Tolasz. Po krizích, které utlumují průmysl, navíc emise obvykle strmě rostou. V Česku podle odhadů loni neklesly vůbec."
 coverimg: "https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/snimek_obrazovky_202_210302-150231_nkr.png?itok=O9dT1zyP"
 coverimg_note: "Foto <a href='iROZHLAS.cz'>iROZHLAS.cz</a>"
 styles: []
@@ -14,7 +14,7 @@ Takové snižování emisí skleníkových plynů ale podle Tolasze nebylo promy
 
 Právě první měsíce pandemie byly také jediné, které pozastavily životy lidí na celé planetě ve stejný okamžik. „Teď už globálním lockdownem neprocházíme. Většina světa funguje v podstatě normálně, s malými omezeními,“ říká Ondráš Přibyla, koordinátor webu Fakta o klimatu. 
 
-Emise sice loni snížili všichni největší znečišťovatelé, jenže zatímco odhady hovoří o poklesu 12 procent ve Spojených státech, 11 procent v Evropské unii a devět procent v Indii, v Číně klesly jen o 1,7 procent. Právě průmyslová a lidnatá Čína přitom žebříček znečisťovatelů s náskokem vede, se zhruba třicetiprocentním podílem na globálních emisích.
+Emise sice loni snížili všichni největší znečišťovatelé, jenže zatímco odhady hovoří o poklesu 12 procent ve Spojených státech, 11 procent v Evropské unii a devět procent v Indii, v Číně klesly jen o 1,7 procenta. Právě průmyslová a lidnatá Čína přitom žebříček znečišťovatelů s náskokem vede, se zhruba třicetiprocentním podílem na globálních emisích.
 
 <wide>
 <div id="graf-1" style="max-width: 820px; margin-left: auto; margin-right: auto;"></div>
@@ -42,9 +42,9 @@ Představu o tom, jak přijatá opatření omezila dopravu v České republice, 
 </div>
 </wide>
 
-<small>Podíl kategorií na produkci CO2: 44 procent globálních emisí CO2 pochází z výroby elektřiny a tepla. Průmysl produkuje 22 procent (včetně výroby oceli a cementu), pozemní doprava 20 procent, veřejný sektor 4 procent (sem patří například provoz kancelářských budov a obchodů), domácnosti 5 procent a letectví: 2 procenta.</small>
+<small>Podíl kategorií na produkci CO2: 44 procent globálních emisí CO2 pochází z výroby elektřiny a tepla. Průmysl produkuje 22 procent (včetně výroby oceli a cementu), pozemní doprava 20 procent, veřejný sektor 4 procenta (sem patří například provoz kancelářských budov a obchodů), domácnosti 5 procent a letectví 2 procenta.</small>
 
-Naopak průmysl, který byl podle globálních [statistik](https://www.nature.com/articles/s41558-020-0797-x) druhým nejvíce přibrzděným znečisťovatelem mezi sektory, se v Česku vyjma několika týdenních odstávek automobilek a lokální nákazy v Dole Darkov téměř neomezil. „Průmyslové provozy běží pořád. Omezuje se pohyb lidí. Ale hospody, restaurace, nebo hotely jsou z hlediska emisí CO2 malým sektorem,“ pokračuje Přibyla. 
+Naopak průmysl, který byl podle globálních [statistik](https://www.nature.com/articles/s41558-020-0797-x) druhým nejvíce přibrzděným znečišťovatelem mezi sektory, se v Česku vyjma několika týdenních odstávek automobilek a lokální nákazy v Dole Darkov téměř neomezil. „Průmyslové provozy běží pořád. Omezuje se pohyb lidí. Ale hospody, restaurace nebo hotely jsou z hlediska emisí CO2 malým sektorem,“ pokračuje Přibyla. 
 
 Dočasné snižování výroby má pro klima podle odborníků jen krátkodobý efekt, který se prakticky neprojeví. „Pokud to zároveň nerozšíříme o změny v energetice a dopravě, nemá to významnou roli,“ odpovídá Přibyla na otázku, zda si z pandemie můžeme něco odnést. 
 
@@ -70,11 +70,11 @@ Emise jsme přitom snižovali už od druhé poloviny osmdesátých let postupně
   </div>
 </a>
 
-„Součástí výpočtu emisí jsou takzvané propady, tedy kolik lesy odčerpají skleníkových plynů nebo oxidu uhličitého z atmosféry. Pokud jsou lesy v problémech a odčerpávají méně, výsledná inventura se zvedá. A to je teď náš problém,“ popisuje Tolasz. 
+„Součástí výpočtu emisí jsou takzvané propady, tedy například kolik lesy odčerpají skleníkových plynů nebo oxidu uhličitého z atmosféry. Pokud jsou lesy v problémech a odčerpávají méně, výsledná inventura se zvedá. A to je teď náš problém,“ popisuje Tolasz. 
 
 Poslední dostupné údaje ze Zprávy o stavu životního prostředí v roce 2019 odhadují, že se meziročně téměř zdvojnásobilo množství smrkového dřeva napadeného kůrovci. Kalamitní těžba tvoří 95 procent vytěženého dřeva. 
 
-Kůrovcovou kalamitu nově zohlednila také Evropská komise ve své dohodě o zpřísnění klimatických závazků k roku 2030. Na prosincovém jednání se členské státy unie zavázaly k celkovému snížení skleníkových plynů o nejméně 55 procent oproti roku 1990. Podle českého premiéra Andreje Babiše (ANO) o zohlední roli lesů v plnění klimatických cílů usilovala Česka republika kvůli kůrovcové kalamitě, která způsobila, že české lesy začaly vypouštět CO2, místo aby jej pohlcovaly jako dříve.
+Kůrovcovou kalamitu nově zohlednila také Evropská komise ve své dohodě o zpřísnění klimatických závazků k roku 2030. Na prosincovém jednání se členské státy unie zavázaly k celkovému snížení skleníkových plynů o nejméně 55 procent oproti roku 1990. Podle českého premiéra Andreje Babiše (ANO) o zohlednění role lesů v plnění klimatických cílů usilovala Česka republika kvůli kůrovcové kalamitě, která způsobila, že české lesy začaly vypouštět CO2, místo aby jej pohlcovaly jako dříve.
 
 <wide>
 <div id="graf-3" style="max-width: 820px; margin-left: auto; margin-right: auto;"></div>
@@ -84,7 +84,7 @@ Kůrovcovou kalamitu nově zohlednila také Evropská komise ve své dohodě o z
 
 ## Rychlá fakta
 
-V Česku připadá necelých 40 procent celkových emisí na sektor energetiky, jen spalování hnědého uhlí v elektrárnách podle výpočtů projektu [Fakta o klimatu](https://faktaoklimatu.cz/) přispívá 32,8 miliony tun emisí ročně. Dvě největší české hnědouhelné elektrárny Počerady a Prunéřov vyprodukují ročně o trochu více emisí skleníkových plynů, než veškerá osobní automobilová doprava.
+V Česku připadá necelých 40 procent celkových emisí na sektor energetiky, jen spalování hnědého uhlí v elektrárnách podle výpočtů projektu [Fakta o klimatu](https://faktaoklimatu.cz/) přispívá 32,8 milionu tun emisí ročně. Dvě největší české hnědouhelné elektrárny Počerady a Prunéřov vyprodukují ročně o trochu více emisí skleníkových plynů než veškerá osobní automobilová doprava.
 
 Emise z dopravy u nás zvyšuje závislost na ropných produktech, s 15procentním podílem je druhým největším producentem emisí v Česku. 
 
