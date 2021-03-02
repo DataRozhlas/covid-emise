@@ -10,16 +10,15 @@ Předběžné výpočty produkce skleníkových plynů za rok 2020 publikovali v
 
 Takové snižování emisí skleníkových plynů ale podle Tolasze nebylo promyšlené a cílené. Vlády se snažily omezit především lidské kontakty, nikoliv produkci emisí. „I proto to teď nevypadá, že by snižování pokračovalo. Klima to v dlouhodobých cyklech ani nepozná,“ dodává. 
 
-Právě první měsíce pandemie byly také jediné, které pozastavily životy lidí na celé planetě ve stejný okamžik. „Teď už globálním lockdownem neprocházíme. Většina světa funguje v podstatě normálně, s malými omezeními,“ říká Ondřej Přibyla, koordinátor webu Fakta o klimatu. 
+<right>Větší relativní pokles emisí byl zaznamenán jen během druhé světové války. Poslední pokles emisí byl o 1,3 procenta, a to v roce 2009, jako důsledek finanční krize.</right>
 
-<right>Větší relativní pokles emisí byl zaznamenán jen během druhé světové války. Poslední pokles emisí byl o 1.3 procenta, a to v roce 2009, jako důsledek finanční krize.</right>
+Právě první měsíce pandemie byly také jediné, které pozastavily životy lidí na celé planetě ve stejný okamžik. „Teď už globálním lockdownem neprocházíme. Většina světa funguje v podstatě normálně, s malými omezeními,“ říká Ondřej Přibyla, koordinátor webu Fakta o klimatu. 
 
 Emise sice loni snížili všichni největší znečišťovatelé, jenže zatímco odhady hovoří o poklesu 12 procent ve Spojených státech, 11 procent v Evropské unii a devět procent v Indii, v Číně klesly jen o 1,7 procent. Právě průmyslová a lidnatá Čína přitom žebříček znečisťovatelů s náskokem vede, se zhruba třicetiprocentním podílem na globálních emisích.
 
 <wide>
 <div id="graf-1" style="max-width: 820px; margin-left: auto; margin-right: auto;"></div>
 <div style="text-align: right; padding-bottom: 10px">
-  <small>Zdroj: <a href="https://ec.europa.eu/eurostat/databrowser/view/HLTH_SILC_02__custom_552582/bookmark/table?lang=en&bookmarkId=d12a09e4-49f2-4663-9c12-9439164b94da">Eurostat</a></small>
 </div>
 </wide>
 
@@ -37,8 +36,6 @@ Představu o tom, jak přijatá opatření omezila dopravu v České republice, 
 
 „Nouzový stav je až čtvrtá příčina toho, že jsme loni naměřili nejlepší ovzduší, které kdy bylo. Teplá zima, mírné léto, převážně dobré rozptylové podmínky a dostatek srážek výrazně zlepšují kvalitu ovzduší a pro rok 2020 byly příznačné,“ vysvětluje Jáchym Brzezina, vedoucí oddělení kvality ovzduší z Českého hydrometeorologického ústavu v Brně.  
 
-Naopak průmysl, který byl podle globálních statistik druhým nejvíce propadlým znečišťovatelem mezi sektory, se v Česku vyjma několika týdenních odstávek automobilek a lokální nákazy v Dole Darkov téměř neomezil. „Průmyslové provozy běží pořád. Omezuje se pohyb lidí. Ale hospody, restaurace, nebo hotely jsou z hlediska emisí CO2 malým sektorem,“ pokračuje Přibyla. 
-
 <wide>
 <div id="graf-2" style="max-width: 820px; margin-left: auto; margin-right: auto;"></div>
 <div style="text-align: right; padding-bottom: 10px">
@@ -48,10 +45,14 @@ Naopak průmysl, který byl podle globálních statistik druhým nejvíce propad
 
 <small>Podíl kategorií na produkci CO2: 44 procent globálních emisí CO2 pochází z výroby elektřiny a tepla. Průmysl produkuje 22 procent (včetně výroby oceli a cementu), pozemní doprava 20 procent, veřejný sektor 4 procent (sem patří například provoz kancelářských budov a obchodů), domácnosti 5 procent a letectví: 2 procent</small>
 
+Naopak průmysl, který byl podle globálních statistik druhým nejvíce propadlým znečišťovatelem mezi sektory, se v Česku vyjma několika týdenních odstávek automobilek a lokální nákazy v Dole Darkov téměř neomezil. „Průmyslové provozy běží pořád. Omezuje se pohyb lidí. Ale hospody, restaurace, nebo hotely jsou z hlediska emisí CO2 malým sektorem,“ pokračuje Přibyla. 
+
 Dočasné snižování výroby má pro klima podle odborníků jen krátkodobý efekt, který se prakticky neprojeví. „Pokud to zároveň nerozšíříme o změny v oblasti výroby elektřiny nebo dopravy, nemá to významnou roli,“ odpovídá Přibyla na otázku, zda si z pandemie můžeme něco odnést. 
 
 ## Brzdí nás kůrovec
-Skeptický je také klimatolog Tolasz. Očekává, že přesnější inventura emisí v Česku za loňský rok odhalí, že i přes globální pokles a veškerá epidemická opatření budou naše emise přinejlepším stejné jako v roce 2019, možná i o něco vyšší. Emise jsme přitom snižovali už od druhé poloviny osmdesátých let postupně téměř až na polovinu historického maxima, než se trend v roce 2019 zvrátil s postupem kůrovcové kalamity.
+Skeptický je také klimatolog Tolasz. Očekává, že přesnější inventura emisí v Česku za loňský rok odhalí, že i přes globální pokles a veškerá epidemická opatření budou naše emise přinejlepším stejné jako v roce 2019, možná i o něco vyšší. 
+
+Emise jsme přitom snižovali už od druhé poloviny osmdesátých let postupně téměř až na polovinu historického maxima, než se trend v roce 2019 zvrátil s postupem kůrovcové kalamity.
 
 <a href="/zpravy-domov/detske-tabory-skaut-junak-kurovec-sucho-taboriste-tezba-lesa_2007011157_nkr" class="b-inline b-inline--right">
   <div class="b-inline__wrap">
@@ -84,7 +85,7 @@ GRAF RŮSTU KONCENTRACÍ HERE
 
 Kůrovcovou kalamitu zohlednila také Evropská unie ve své dohodě o zpřísnění klimatických závazků k roku 2030. Na prosincovém jednání se členské státy zavázaly k celkovému snížení skleníkových plynů o nejméně 55 procent oproti roku 1990. 
 
-FAKTA O KLIMATU BACKGROUND HERE:
+## Background fakta
 
 V Česku připadá necelých 40 procent celkových emisí na sektor energetiky, jen spalování hnědého uhlí v elektrárnách podle výpočtů projektu Fakta o klimatu přispívá 32,8 miliony tun emisí ročně. Dvě největší české hnědouhelné elektrárny Počerady a Prunéřov vyprodukují ročně o trochu více emisí skleníkových plynů, než veškerá osobní automobilová doprava.
 
