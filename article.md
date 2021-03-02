@@ -39,7 +39,6 @@ Představu o tom, jak přijatá opatření omezila dopravu v České republice, 
 
 Naopak průmysl, který byl podle globálních statistik druhým nejvíce propadlým znečišťovatelem mezi sektory, se v Česku vyjma několika týdenních odstávek automobilek a lokální nákazy v Dole Darkov téměř neomezil. „Průmyslové provozy běží pořád. Omezuje se pohyb lidí. Ale hospody, restaurace, nebo hotely jsou z hlediska emisí CO2 malým sektorem,“ pokračuje Přibyla. 
 
-GRAF PODLE SEKTORŮ HERE:
 <wide>
 <div id="graf-2" style="max-width: 820px; margin-left: auto; margin-right: auto;"></div>
 <div style="text-align: right; padding-bottom: 10px">
@@ -92,7 +91,10 @@ V Česku připadá necelých 40 procent celkových emisí na sektor energetiky, 
 Emise z dopravy u nás zvyšuje závislost na ropných produktech, s 15procentním podílem je druhým největším producentem emisí v Česku. 
 
 <wide>
-<a href="https://faktaoklimatu.cz/infografiky/emise-cr-detail" target="_blank" rel="noopener">Emise skleníkových plynů v ČR podle sektorů detailně</a>
+<div id="graf-4" style="max-width: 820px; margin-left: auto; margin-right: auto;"></div>
+<div style="text-align: right; padding-bottom: 10px">
+  <small>Zdroj: <a href="https://ec.europa.eu/eurostat/databrowser/view/HLTH_SILC_02__custom_552582/bookmark/table?lang=en&bookmarkId=d12a09e4-49f2-4663-9c12-9439164b94da">Eurostat</a></small>
+</div>
 </wide>
 
 ----------------
