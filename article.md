@@ -39,7 +39,6 @@ Představu o tom, jak přijatá opatření omezila dopravu v České republice, 
 <wide>
 <div id="graf-2" style="max-width: 820px; margin-left: auto; margin-right: auto;"></div>
 <div style="text-align: right; padding-bottom: 10px">
-  <small>Zdroj: <a href="https://ec.europa.eu/eurostat/databrowser/view/HLTH_SILC_02__custom_552582/bookmark/table?lang=en&bookmarkId=d12a09e4-49f2-4663-9c12-9439164b94da">Eurostat</a></small>
 </div>
 </wide>
 
