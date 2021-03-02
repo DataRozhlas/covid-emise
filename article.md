@@ -84,9 +84,11 @@ Kůrovcovou kalamitu nově zohlednila také Evropská komise ve své dohodě o z
 
 ## Rychlá fakta
 
-V Česku připadá necelých 40 procent celkových emisí na sektor energetiky, jen spalování hnědého uhlí v elektrárnách podle výpočtů projektu Fakta o klimatu přispívá 32,8 miliony tun emisí ročně. Dvě největší české hnědouhelné elektrárny Počerady a Prunéřov vyprodukují ročně o trochu více emisí skleníkových plynů, než veškerá osobní automobilová doprava.
+V Česku připadá necelých 40 procent celkových emisí na sektor energetiky, jen spalování hnědého uhlí v elektrárnách podle výpočtů projektu [Fakta o klimatu](https://faktaoklimatu.cz/) přispívá 32,8 miliony tun emisí ročně. Dvě největší české hnědouhelné elektrárny Počerady a Prunéřov vyprodukují ročně o trochu více emisí skleníkových plynů, než veškerá osobní automobilová doprava.
 
 Emise z dopravy u nás zvyšuje závislost na ropných produktech, s 15procentním podílem je druhým největším producentem emisí v Česku. 
+
+Detailní rozložení celkových emisí skleníkových plynů v tuzemsku za rok 2018 popisuje infografika projektu Fakta o klimatu. 
 
 <wide>
 <div id="graf-4" style="max-width: 820px; margin-left: auto; margin-right: auto;"></div>
