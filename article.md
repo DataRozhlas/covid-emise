@@ -57,16 +57,16 @@ Skeptický je také klimatolog Tolasz. Očekává, že přesnější inventura e
 <a href="/zpravy-domov/detske-tabory-skaut-junak-kurovec-sucho-taboriste-tezba-lesa_2007011157_nkr" class="b-inline b-inline--right">
   <div class="b-inline__wrap">
             <div class="b-inline__img">
-          <div class="img img--16x9 img--w238 is-loaded">
-              <span class="img__holder is-loading is-loaded is-visible" data-srcset="[&quot;https://www.irozhlas.cz/sites/default/files/styles/zpravy_rubrikovy_nahled/public/uploader/titulka_190120-004319_jab.png?itok=fn1-KFbu 238x134&quot;]">
+          <div class="img img--16x9 img--w238">
+              <span     class="img__holder " data-srcset='["https://www.irozhlas.cz/sites/default/files/styles/zpravy_rubrikovy_nahled/public/uploader/dji_0887_200629-102600_nkr.JPG?itok=xHEORqyv 238x134"]'  >
 
-  <noscript>    <img src="https://www.irozhlas.cz/sites/default/files/styles/zpravy_rubrikovy_nahled/public/uploader/titulka_190120-004319_jab.png?itok=fn1-KFbu" alt="" />  </noscript>
-<img src="https://www.irozhlas.cz/sites/default/files/styles/zpravy_rubrikovy_nahled/public/uploader/titulka_190120-004319_jab.png?itok=fn1-KFbu"></span>
+  <noscript>    <img src="https://www.irozhlas.cz/sites/default/files/styles/zpravy_rubrikovy_nahled/public/uploader/dji_0887_200629-102600_nkr.JPG?itok=xHEORqyv" alt="" />  </noscript>
+</span>
           </div>
         </div>
         <div class="b-inline__content">
       <p class="text-xs--m text-serif">
-        ‚Už to není ono.‘ Mapa ukazuje, jak kůrovcová kalamita a sucho mění tradiční bašty táborníků</p>
+        ‚Už to není ono.‘ Mapa ukazuje, jak kůrovcová kalamita a sucho mění tradiční bašty táborníků      </p>
     </div>
   </div>
 </a>
