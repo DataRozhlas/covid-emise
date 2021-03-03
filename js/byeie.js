@@ -24,7 +24,7 @@ if (window.innerWidth < 600) {
 }
 
 if (window.innerWidth < 600) {
-  document.getElementById("graf-4").innerHTML = '<img class="img" src="https://data.irozhlas.cz/covid-emise-grafy-svg/graf_koncentrace_mob.svg">'
+  document.getElementById("graf-4").innerHTML = '<img class="img" src="https://data.irozhlas.cz/covid-emise-grafy-svg/graf_fakta_emise_cr_detail.svg">'
 } else {
   document.getElementById("graf-4").innerHTML = '<img class="img" src="https://data.irozhlas.cz/covid-emise-grafy-svg/graf_fakta_emise_cr_detail.svg">'
 }
