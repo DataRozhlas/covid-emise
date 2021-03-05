@@ -22,7 +22,7 @@ Emise sice loni snížili všichni největší znečišťovatelé, jenže zatím
 </div>
 </wide>
 
-<small>O emisích skleníkových plynů nejpřesněji vypovídají hlášené spotřeby energií, ty jsou ale dostupné až s několikaměsíčním zpožděním. Studie publikovaná odborným časopisem Nature Climate Change proto odhaduje poklesy emisí během roku 2020 za pomocí dat o mobilitě, společně s daty o výrobě elektřiny a dalšími podrobnými [statistikami](https://ec.europa.eu/health/indicators_data/indicators_en).</small>
+<small>O emisích skleníkových plynů nejpřesněji vypovídají hlášené spotřeby energií, ty jsou ale dostupné až s několikaměsíčním zpožděním. Studie publikovaná odborným časopisem Nature Climate Change proto odhaduje poklesy emisí během roku 2020 za pomoci dat o mobilitě, společně s daty o výrobě elektřiny a dalšími podrobnými [statistikami](https://ec.europa.eu/health/indicators_data/indicators_en).</small>
 
 Na první pohled pozitivní dopad pandemie má významný háček. Přestože lidstvo loni vypustilo méně skleníkových plynů než o rok dříve, jejich koncentrace v atmosféře nadále stoupaly. Podle [zprávy](https://www.unep.org/news-and-stories/press-release/united-science-report-climate-change-has-not-stopped-covid19) OSN dokonce na nejvyšší úroveň za poslední tři miliony let. 
 
